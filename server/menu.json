@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "category": "Burgers",
+    "name": "Cheeseburger",
+    "price": 15.5,
+    "description": "Delicious cheeseburger with fries",
+    "image": "burger.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Drinks",
+    "name": "Soda",
+    "price": 5.0,
+    "description": "Cold soda can",
+    "image": "soda.jpg"
+  }
+]
