@@ -4,15 +4,38 @@
     "category": "Burgers",
     "name": "Cheeseburger",
     "price": 15.5,
-    "description": "Delicious cheeseburger with fries",
-    "image": "burger.jpg"
+    "description": "Hambúrguer com queijo e fritas",
+    "image": "burger.jpg",
+    "extras": [
+      { "name": "Bacon", "price": 2.5 },
+      { "name": "Cheddar extra", "price": 3 }
+    ]
   },
   {
     "id": 2,
+    "category": "Burgers",
+    "name": "Veggie Burger",
+    "price": 17.0,
+    "description": "Hambúrguer vegetariano com salada",
+    "image": "veggie.jpg",
+    "extras": [
+      { "name": "Molho especial", "price": 1.5 }
+    ]
+  },
+  {
+    "id": 3,
     "category": "Drinks",
-    "name": "Soda",
+    "name": "Refrigerante",
     "price": 5.0,
-    "description": "Cold soda can",
+    "description": "Lata de refrigerante gelado",
     "image": "soda.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Drinks",
+    "name": "Suco natural",
+    "price": 7.5,
+    "description": "Suco de frutas feito na hora",
+    "image": "juice.jpg"
   }
 ]
