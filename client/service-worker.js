@@ -1,4 +1,4 @@
-const CACHE_NAME = 'santadicas-cache-v1';
+const CACHE_NAME = 'carolsoareslash-cache-v1';
 const urlsToCache = ['/', '/app.js', '/style.css'];
 
 self.addEventListener('install', event => {
