@@ -1,6 +1,6 @@
-# santadicas
+# Carol Soares LASH
 
-Aplicativo simples baseado no PRD do Santa Dicas. Este projeto demonstra um PWA para exibir um cardápio digital e receber pedidos.
+Exemplo de aplicativo PWA para o salão **Carol Soares LASH**, especializado em extensão de cílios e unhas de gel. O projeto é baseado no exemplo "santadicas" e serve como ponto de partida para um sistema de pedidos.
 
 ## Estrutura
 - **server/**: servidor Express que fornece a API e distribui os arquivos estáticos.
@@ -15,6 +15,6 @@ Aplicativo simples baseado no PRD do Santa Dicas. Este projeto demonstra um PWA 
    ```bash
    npm start
    ```
-3. Acesse `http://localhost:3000` no navegador para visualizar o cardápio.
+3. Acesse `http://localhost:3000` no navegador para visualizar o menu de serviços.
 
-Este projeto é um ponto de partida e deve ser expandido conforme os requisitos do PRD.
+Edite `server/menu.json` para adicionar ou alterar serviços do salão.
